@@ -1,2 +1,2 @@
-# dft
-bunch of codes
+# Codes for DFT simulations
+ABINIT, VASP
